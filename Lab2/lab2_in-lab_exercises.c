@@ -2,9 +2,6 @@
  File:				lab2_in-lab_exercises.c
  Purpose:			Implementation of functions for lab 2 in-lab exercises
  Author:			Idil Bil - Fatima Mustaq
- Student #s:		21344189 and 56703960 
- CWLs:				y3c2z and g7v2l
- Date:				September 28, 2021
  */
 
 #include "lab2_in-lab_exercises.h"
