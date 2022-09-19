@@ -2,10 +2,8 @@
  File:        dna.h
  Purpose:     Contains constants, prototypes, and two
               helpful arrays.
- Author:			Your names
- Student #s:	12345678 and 12345678
- CWLs:	      cwl1 and cwl2
- Date:				Add the date here
+ Author:			Idil Bil - Mehmet Berke Karadayi
+ Date:				October 5, 2021
  */
 
  /******************************************************************
