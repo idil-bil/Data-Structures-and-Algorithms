@@ -1,8 +1,8 @@
 /*
 File:         tide_analyzer.h
 Purpose:      Contains prototypes
-Author:			 Idil Bil - Fatima Mustaq
-Date:		     September 21, 2021
+Author:	Idil Bil - Fatima Mustaq
+Date:		 September 21, 2021
 */
 
 /********************************************************************
