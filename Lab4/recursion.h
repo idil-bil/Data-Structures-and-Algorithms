@@ -1,10 +1,8 @@
 /*
  File:          recursion.h
  Purpose:       Prototypes for lab 4 exercises
- Author:			  Your names
- Student #s:		12345678 and 12345678
- CWLs:		      cwl1 and cwl2
- Date:				  Add the date here
+ Author:	Idil Bil and Fatima Mustaq
+ Date:		November 16, 2021
  */
 
 #pragma once
