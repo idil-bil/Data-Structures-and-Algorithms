@@ -2,8 +2,6 @@
  File:					mazesolver.c
  Purpose:				Mazesolver for Lab4 Take Home
  Author:			Idil Bil and Leif Moen
- Student #s:		21344189 and 97685127
- CWLs:      		y3c2z and kitmee10
  Date:				November 21,2021
  */
 
