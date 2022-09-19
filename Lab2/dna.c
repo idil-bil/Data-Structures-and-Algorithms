@@ -7,8 +7,6 @@
               sequence file is a txt file (threes samples
               are provided in the Resource Files folder).
  Author:			Idil Bil - Mehmet Berke Karadayi
- Student #s:	    21344189 - 77766392
- CWLs:	            y3c2z - mberke27
  Date:				October 5, 2021
  */
 
