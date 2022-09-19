@@ -1,10 +1,8 @@
 /*
  File:				lab2_in-lab_exercises.h
  Purpose:			Contains function prototypes
- Author:			Your names
- Student #s:	12345678 and 12345678
- CWLs:	      cwl1 and cwl2
- Date:				Add the date here
+ Author:			Idil Bil - Fatima Mustaq
+ Date: September 28, 2021
  */
 
  /*
