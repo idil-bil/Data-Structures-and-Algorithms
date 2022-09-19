@@ -3,8 +3,6 @@
  Purpose:      Implements the linked list functions whose prototypes
                are declared in the linked_list.h header file
  Author:       Idil Bil and Fatima Mustaq
- Student #s:   21344189 and 56703960
- CWLs:         y3c2z and g7v2l
  Date:         October 19, 2021
  */
  
