@@ -1,10 +1,8 @@
 /*
  File:          recursion.c
  Purpose:       Exercises for CPSC259 lab 4
- Author:			  Idil Bil and Fatima Mustaq
- Student #s:		21344189 and 56703960 
- CWLs:		      y3c2z and g7v2l
- Date:				  November 16, 2021
+ Author:	Idil Bil and Fatima Mustaq
+ Date:		November 16, 2021
  */
 
  /******************************************************************
