@@ -2,8 +2,6 @@
 File:         lab1_inlab_exercises.c
 Purpose:      Exercises for lab 1
 Author:       Idil Bil and Fatima Mustaq
-Student #s:   21344189 and 56703960
-CS Accounts:  y3c2z and g7v2l
 Date:         September 14, 2021
 */
 
